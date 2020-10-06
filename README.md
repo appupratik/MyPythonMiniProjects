@@ -1,1 +1,3 @@
 #This is my Python Mini Programs
+1. find_Many_max_char_in_string.py is for find how many times characters comes in string and Which character(s) comes maximum time(s) in string
+2. prime_number.py is for to find the prime number from User entered String
