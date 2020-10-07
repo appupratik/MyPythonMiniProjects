@@ -6,3 +6,4 @@
 5. ip_address_sort.py for sorting ip address with last digit
 6. sort_zero_at_end.py for sorting '0' at end in list
 7. Shield_Hydra_members.py is Logical Game for find the output which are not Shiled members
+8. sorted_list_using_while_loop.py -In this, two sorted list given with unequal size and sorted using while loop
